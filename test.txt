@@ -1,0 +1,8 @@
+year_number	quarter_number	month_number	week_number	date_r	user	country	hex	process	item	ordered	group
+2021	3	8	33	08/21/2021	user1	Spain	All	Deposit	d	1	Selling
+2021	3	8	34	08/23/2021	user2	France	All	Deposit	d	1	Selling
+2021	3	8	34	08/23/2021	user3	USA	All	Deposit	d	1	Selling
+2021	3	8	34	08/23/2021	user4	Italy	All	Accountancy	a	1	Tax
+2021	3	8	34	08/26/2021	user5	France	All	Accountancy	a	1	Tax
+2021	3	8	34	08/26/2021	user6	Spain	All	Accountancy	a	1	Tax
+2021	3	8	34	08/25/2021	user7	USA	All	Deposit	d	1	Selling
